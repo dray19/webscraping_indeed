@@ -1,0 +1,97 @@
+,skills,Count,city
+0,PowerPoint,56.0,DC
+1,Forecasting,80.0,DC
+2,SQL,6.0,DC
+3,Tableau,3.0,DC
+4,Excel,218.0,DC
+5,Accounting,188.0,DC
+6,CPA,82.0,DC
+7,SAS,12.0,DC
+8,SAP,3.0,DC
+9,Communication,202.0,DC
+10,Problem_Solving,32.0,DC
+11,Analytical_Skills,15.0,DC
+12,Outlook,19.0,DC
+13,Critical_Thinking,19.0,DC
+14,Salesforce,4.0,DC
+15,Teamwork,21.0,DC
+16,PowerPoint,14.0,Philadelphia
+17,Forecasting,19.0,Philadelphia
+18,SQL,3.0,Philadelphia
+19,Tableau,2.0,Philadelphia
+20,Excel,68.0,Philadelphia
+21,Accounting,57.0,Philadelphia
+22,CPA,19.0,Philadelphia
+23,SAS,5.0,Philadelphia
+24,SAP,2.0,Philadelphia
+25,Communication,68.0,Philadelphia
+26,Problem_Solving,14.0,Philadelphia
+27,Analytical_Skills,6.0,Philadelphia
+28,Outlook,3.0,Philadelphia
+29,Critical_Thinking,5.0,Philadelphia
+30,Salesforce,4.0,Philadelphia
+31,Teamwork,11.0,Philadelphia
+32,PowerPoint,66.0,New York City
+33,Forecasting,89.0,New York City
+34,SQL,17.0,New York City
+35,Tableau,10.0,New York City
+36,Excel,286.0,New York City
+37,Accounting,204.0,New York City
+38,CPA,66.0,New York City
+39,SAS,31.0,New York City
+40,SAP,5.0,New York City
+41,Communication,245.0,New York City
+42,Problem_Solving,50.0,New York City
+43,Analytical_Skills,40.0,New York City
+44,Outlook,27.0,New York City
+45,Critical_Thinking,13.0,New York City
+46,Salesforce,17.0,New York City
+47,Teamwork,16.0,New York City
+48,PowerPoint,51.0,San Francisco
+49,Forecasting,99.0,San Francisco
+50,SQL,26.0,San Francisco
+51,Tableau,15.0,San Francisco
+52,Excel,229.0,San Francisco
+53,Accounting,197.0,San Francisco
+54,CPA,88.0,San Francisco
+55,SAS,27.0,San Francisco
+56,SAP,2.0,San Francisco
+57,Communication,208.0,San Francisco
+58,Problem_Solving,33.0,San Francisco
+59,Analytical_Skills,44.0,San Francisco
+60,Outlook,15.0,San Francisco
+61,Critical_Thinking,32.0,San Francisco
+62,Salesforce,27.0,San Francisco
+63,Teamwork,14.0,San Francisco
+64,PowerPoint,64.0,Chicago
+65,Forecasting,83.0,Chicago
+66,SQL,13.0,Chicago
+67,Tableau,13.0,Chicago
+68,Excel,246.0,Chicago
+69,Accounting,201.0,Chicago
+70,CPA,93.0,Chicago
+71,SAS,49.0,Chicago
+72,SAP,5.0,Chicago
+73,Communication,225.0,Chicago
+74,Problem_Solving,48.0,Chicago
+75,Analytical_Skills,44.0,Chicago
+76,Outlook,7.0,Chicago
+77,Critical_Thinking,13.0,Chicago
+78,Salesforce,7.0,Chicago
+79,Teamwork,26.0,Chicago
+80,PowerPoint,13.0,Houston
+81,Forecasting,25.0,Houston
+82,SQL,2.0,Houston
+83,Tableau,6.0,Houston
+84,Excel,84.0,Houston
+85,Accounting,76.0,Houston
+86,CPA,33.0,Houston
+87,SAS,27.0,Houston
+88,SAP,0.0,Houston
+89,Communication,74.0,Houston
+90,Problem_Solving,16.0,Houston
+91,Analytical_Skills,11.0,Houston
+92,Outlook,4.0,Houston
+93,Critical_Thinking,6.0,Houston
+94,Salesforce,2.0,Houston
+95,Teamwork,13.0,Houston
