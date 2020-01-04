@@ -1,0 +1,91 @@
+,language,Count,city
+0,C,13.0,DC
+1,C++,33.0,DC
+2,Java,91.0,DC
+3,Javascript,22.0,DC
+4,Python,236.0,DC
+5,R,207.0,DC
+6,SQL,168.0,DC
+7,Hadoop,39.0,DC
+8,Hive,21.0,DC
+9,Pig,10.0,DC
+10,Spark,72.0,DC
+11,AWS,78.0,DC
+12,Tableau,85.0,DC
+13,SAS,56.0,DC
+14,Excel,195.0,DC
+15,C,12.0,Denver
+16,C++,25.0,Denver
+17,Java,63.0,Denver
+18,Javascript,20.0,Denver
+19,Python,145.0,Denver
+20,R,103.0,Denver
+21,SQL,128.0,Denver
+22,Hadoop,46.0,Denver
+23,Hive,21.0,Denver
+24,Pig,5.0,Denver
+25,Spark,62.0,Denver
+26,AWS,52.0,Denver
+27,Tableau,39.0,Denver
+28,SAS,18.0,Denver
+29,Excel,113.0,Denver
+30,C,10.0,New York City
+31,C++,21.0,New York City
+32,Java,69.0,New York City
+33,Javascript,16.0,New York City
+34,Python,249.0,New York City
+35,R,174.0,New York City
+36,SQL,205.0,New York City
+37,Hadoop,70.0,New York City
+38,Hive,38.0,New York City
+39,Pig,5.0,New York City
+40,Spark,73.0,New York City
+41,AWS,47.0,New York City
+42,Tableau,53.0,New York City
+43,SAS,35.0,New York City
+44,Excel,147.0,New York City
+45,C,10.0,San Francisco
+46,C++,15.0,San Francisco
+47,Java,64.0,San Francisco
+48,Javascript,9.0,San Francisco
+49,Python,228.0,San Francisco
+50,R,129.0,San Francisco
+51,SQL,171.0,San Francisco
+52,Hadoop,66.0,San Francisco
+53,Hive,52.0,San Francisco
+54,Pig,14.0,San Francisco
+55,Spark,80.0,San Francisco
+56,AWS,41.0,San Francisco
+57,Tableau,49.0,San Francisco
+58,SAS,14.0,San Francisco
+59,Excel,145.0,San Francisco
+60,C,12.0,Austin
+61,C++,32.0,Austin
+62,Java,73.0,Austin
+63,Javascript,14.0,Austin
+64,Python,188.0,Austin
+65,R,86.0,Austin
+66,SQL,181.0,Austin
+67,Hadoop,66.0,Austin
+68,Hive,59.0,Austin
+69,Pig,8.0,Austin
+70,Spark,109.0,Austin
+71,AWS,78.0,Austin
+72,Tableau,57.0,Austin
+73,SAS,24.0,Austin
+74,Excel,115.0,Austin
+75,C,9.0,Chicago
+76,C++,25.0,Chicago
+77,Java,58.0,Chicago
+78,Javascript,12.0,Chicago
+79,Python,184.0,Chicago
+80,R,129.0,Chicago
+81,SQL,179.0,Chicago
+82,Hadoop,87.0,Chicago
+83,Hive,46.0,Chicago
+84,Pig,14.0,Chicago
+85,Spark,109.0,Chicago
+86,AWS,77.0,Chicago
+87,Tableau,48.0,Chicago
+88,SAS,45.0,Chicago
+89,Excel,139.0,Chicago
